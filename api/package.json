@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node server.js"
   },
-  "author": "",
+  "author": "Recep Batuhan Dikmen",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
